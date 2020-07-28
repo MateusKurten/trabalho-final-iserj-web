@@ -1,0 +1,12 @@
+body{
+    background-image: url("imagens/background.jpg");
+    padding: 0;
+}
+
+.botao-redondo{
+    border-radius: 24px;
+}
+
+.botoes-cabecalho{
+    height: 200px;
+}
